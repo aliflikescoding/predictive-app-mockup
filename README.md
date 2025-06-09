@@ -1,1 +1,2 @@
 # weather-predictor-mockup
+for the intro to A.I class in DIPONEGORO UNIVERSITY we we're asked to create a mockup of our idea that incorporates A.I/Machin Learning, for my idea it's a app that recomends weather or not you could do that activity for the next day or so with machine learning (mockup), i.e for example activity outside like hunting photos or whatever the a.i will predict the weather for the next days and if does not recomend doing that activity on that day, it recomends the acitiviy in another day. the app it self is called predictive
